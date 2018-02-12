@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Bracketeer",
+		"BracketGuard",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Colorsublime",
+		"DocBlockr",
+		"HTMLBeautify",
+		"Material Theme",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"Smart Match",
+		"SublimeCodeIntel",
+		"SublimeLinter-html-tidy",
+		"Theme - Minimist",
+		"Xdebug Client"
+	]
+}
